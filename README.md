@@ -5,5 +5,11 @@ In this project we have been tasked with investigating whether the wearable sens
 
 
 
-# USAGE
+# Usage
+1.	Download the dataset from https://www.mdpi.com/1424-8220/22/21/8135
+2.	Extract the downloaded data folder and then save the data into the same folder as the juypter notebook.
+3.	Run the Assignment 2(CE888).ipynb or Assignment 2(CE888).py to load the dataset, perform exploratory data analysis (EDA), select features, pre-process the data and train the machine learning model for stress prediction. 
+4.	The file contains code snippets for data pre-processing, EDA, feature selection, model development, and model evaluation.
+5.	Once the model is trained, we can use it to predict stress based on the dataset.  
+
 
